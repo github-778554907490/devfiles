@@ -1,3 +1,12 @@
 schemaVersion: 2.0.0
 metadata:
-  name: invalidDevfile
+  name: public-repository
+components:
+  - name: 
+    container:
+      image: 
+      mountSources: true
+      command: [ ]
+      env:
+        - name: "TEST_ENV"
+          value: 
