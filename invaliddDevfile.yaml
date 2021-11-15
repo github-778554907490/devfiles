@@ -2,11 +2,11 @@ schemaVersion: 2.0.0
 metadata:
   name: public-repository
 components:
-  - name: 
+  - name: " "
     container:
-      image: 
+      image: " "
       mountSources: true
-      command: [ ]
+      command: [" "]
       env:
-        - name: 
-          value: 
+        - name: "TEST_ENV"
+          value: " "
