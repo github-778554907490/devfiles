@@ -8,5 +8,5 @@ components:
       mountSources: true
       command: [ ]
       env:
-        - name: "TEST_ENV"
+        - name: 
           value: 
