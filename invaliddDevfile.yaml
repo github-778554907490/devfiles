@@ -1,6 +1,6 @@
 schemaVersion: 2.0.0
 metadata:
-  name: public-repository
+  name: devfiles
 components:
   - name: test
     container:
